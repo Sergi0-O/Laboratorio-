@@ -1,2 +1,2 @@
-# Laboratorio
+# Guia de Laboratorio
 - Matlab Guia 
